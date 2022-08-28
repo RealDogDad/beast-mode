@@ -1,15 +1,6 @@
-Rain sound
+:cat: Beast Mode :dog:
 ==========
-
-A Chrome extension to improve productivity
-
-
-**How to install**
-
-You can install it from [Chrome web store](https://chrome.google.com/webstore/detail/rain-sound/boccolgmoknhiidceemmgkoaggficcpl)
-
-
-**Acknowledgement**
-
-Based on [Rainy Cafe](http://rainycafe.com/)
-Rain recording by [Matt Barnard](https://soundcloud.com/mattt)
+### Do your dogs lose their minds when an actor knocks on the door on screen?
+### What about if a doorbell goes off in your favorite show? Does your cat start singing the songs of its people?
+## Then this is the extension for you.
+*Note* This is still in development, check back for a stable release!
